@@ -122,4 +122,4 @@ Uses Needleman Wunsch Global Alignment to match 100 random tokens that are not i
 
 ## Author
 
-* [Najim Islam](https://github.com/najimc)
+* [Najim](https://github.com/najimc)
